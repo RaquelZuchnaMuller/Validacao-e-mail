@@ -73,7 +73,7 @@ This challenge is meant to practice basic logic and string validations.
 
 Developed by **Raquel Zuchna Müller** 👩🏻‍💻  
 Connect with me!  
-Keep coding... keep on coding...
+Just keep coding... just keep coding... 🐟👩🏻‍💻
 
 ---
 
