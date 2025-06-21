@@ -62,3 +62,26 @@ A string containing the email to be validated.
 
 Este desafio serve para praticar conceitos básicos de lógica e validações com strings.  
 This challenge is meant to practice basic logic and string validations.
+
+---
+## 🛠️ Tecnologias | Technologies
+
+- Language: [Python](https://www.python.org/)
+- IDE: [Visual Studio Code](https://code.visualstudio.com/)
+
+## ✨ Author
+
+Developed by **Raquel Zuchna Müller** 👩🏻‍💻  
+Connect with me!  
+Keep coding... keep on coding...
+
+---
+
+🚀 *This project is just the beginning. Feel free to contribute, improve, and experiment!*
+🚀 *Este projeto é apenas o começo. Sinta-se à vontade para contribuir, melhorar e experimentar!*
+
+
+
+
+
+
